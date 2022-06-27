@@ -8,11 +8,12 @@ version '1.0-SNAPSHOT'
 repositories {
     mavenCentral()
 }
-//oihhggkkkokkk
+//ppoihhggkkkokkk
 
 dependencies {
 // https://mvnrepository.com/artifact/org.testng/testng
-    //oi nnggg
+    //oi nngggkk
+    //ooiiooiijjll
     testImplementation group: 'org.testng', name: 'testng', version: '7.1.0'
 }
 
