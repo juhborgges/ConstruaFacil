@@ -13,7 +13,7 @@ repositories {
 dependencies {
 // https://mvnrepository.com/artifact/org.testng/testng
     //oi nngggkk
-    //ooiiooii
+    //ooiiooiijj
     testImplementation group: 'org.testng', name: 'testng', version: '7.1.0'
 }
 
